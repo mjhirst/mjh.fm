@@ -27,7 +27,7 @@ url: "https://mjh.fm" # the base hostname & protocol for your site, e.g. http://
 github_username:  mjhirst
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
